@@ -1,0 +1,19 @@
+body{
+  font-family: sans-serif;
+}
+li{
+  list-style-type: none;
+  display: inline;
+  padding:50px;
+}
+h1{
+  color:#711e1e;
+  padding: 50px;
+  font-size: 58px;
+}
+a{
+  color:#1E7071;
+}
+a:hover{
+  color:#711e1e;
+}
