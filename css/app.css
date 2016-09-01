@@ -4,3 +4,10 @@ html {
 body{
   font-family: sans-serif;
 }
+p{
+      font-family: monospace;
+}
+.content {
+    margin: 0px auto;
+    width: 1200px;
+}
