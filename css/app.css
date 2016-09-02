@@ -12,3 +12,10 @@ p{
     padding: 20px;
     width: 1200px;
 }
+
+
+@media (max-width: 1200px) {
+  .content {
+    width: 90%;
+  }
+}
