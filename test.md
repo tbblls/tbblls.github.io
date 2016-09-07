@@ -1,6 +1,6 @@
 ---
 layout: post
-highlighter: rouge
+highlighter: pygments
 ---
 
 # Posts
