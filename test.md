@@ -8,8 +8,7 @@ layout: post
 
 No thank you
 
-```ruby
-def foo
-  puts 'foo'
-end
+```javascript
+const foo = Rx.Js.create(element,'click');
+foo.subscribe(console.log.bind(console));
 ```
