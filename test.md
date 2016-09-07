@@ -10,7 +10,8 @@ No thank you
 
 ```javascript
 const button = document.querySelector('#buttonId');
-const clickStream = Rx.Observable.fromEvent(button, 'click');
+const clickStream = Rx.Observable
+                        .fromEvent(button, 'click');
 
 const multiClickStream  = clickStream.debounce(250);
 
