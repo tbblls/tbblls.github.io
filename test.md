@@ -1,6 +1,5 @@
 ---
 layout: post
-highlighter: pygments
 ---
 
 # Posts
@@ -9,7 +8,8 @@ highlighter: pygments
 
 No thank you
 
-```javascript
-var x = 1;
-alert(x);
+```ruby
+def foo
+  puts 'foo'
+end
 ```
